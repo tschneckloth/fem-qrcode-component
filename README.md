@@ -19,8 +19,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
--   Solution URL: [Solution](https://github.com/tschneckloth/fem-qrcode-component)
--   Live Site URL: [Live Site](https://rhinopack-fem-qrcode.netlify.app/)
+-   Solution URL: [Here](https://github.com/tschneckloth/fem-qrcode-component)
+-   Live Site URL: [Here](https://rhinopack-fem-qrcode.netlify.app/)
 
 ### Built with
 
