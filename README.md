@@ -11,16 +11,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
     -   [Built with](#built-with)
 -   [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ### Screenshot
 
 ![](./images/final.png)
 
 ### Links
 
--   Solution URL: [Here](https://github.com/tschneckloth/fem-qrcode-component)
--   Live Site URL: [Here](https://rhinopack-fem-qrcode.netlify.app/)
+-   Solution URL: [here](https://github.com/tschneckloth/fem-qrcode-component)
+-   Live Site URL: [here](https://rhinopack-fem-qrcode.netlify.app/)
 
 ### Built with
 
